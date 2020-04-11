@@ -1,0 +1,10 @@
+﻿INPUT:
+A b c D e F g H
+OUTPUT:
+a b c d e f g h
+REMOVE_SPACES:
+YES
+CASE_SENSITIVE:
+NO
+MARK:
+1

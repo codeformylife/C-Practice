@@ -1,0 +1,10 @@
+﻿INPUT:
+A li ba Ba san Ta Lu ci a 
+OUTPUT:
+4
+REMOVE_SPACES:
+YES
+CASE_SENSITIVE:
+NO
+MARK:
+1
